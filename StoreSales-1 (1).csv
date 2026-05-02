@@ -1,0 +1,481 @@
+StoreID,Region,AdvertisingBudget,MonthlySales
+S001,North coast,22.8,364.9
+S002,North coast,21.6,351.8
+S003,North coast,10.6,294.9
+S004,North coast,28.6,354.8
+S005,North coast,11.9,341.4
+S006,North coast,15.6,314.5
+S007,North coast,12.9,357.1
+S008,North coast,14.4,313.4
+S009,North coast,16,340.9
+S010,North coast,15.6,343.6
+S011,North coast,14.9,341.5
+S012,North coast,15.6,346.7
+S013,North coast,12.7,347.5
+S014,North coast,12.6,332.8
+S015,North coast,8.4,318.5
+S016,North coast,13.1,339.9
+S017,North coast,12.5,326.3
+S018,North coast,38.6,438.8
+S019,North coast,9.3,282.6
+S020,North coast,15.7,364.5
+S021,North coast,8.9,320
+S022,North coast,9,333.6
+S023,North coast,15.7,363.7
+S024,North coast,10.6,346.4
+S025,North coast,15,328.8
+S026,North coast,12.9,367.4
+S027,North coast,12.1,301.4
+S028,North coast,7.4,338
+S029,North coast,9.8,317.2
+S030,North coast,16,306.5
+S031,North coast,18.3,313.9
+S032,North coast,12.6,340.2
+S033,North coast,15,386.5
+S034,North coast,22.2,367.6
+S035,North coast,24.8,392.1
+S036,North coast,10.2,345.3
+S037,North coast,14.4,327.2
+S038,North coast,22.8,382.9
+S039,North coast,12.7,342.6
+S040,North coast,14.7,345.3
+S001,North coast,14.6,360.9
+S002,North coast,11,345.7
+S003,North coast,12.8,323.3
+S004,North coast,14.8,349.3
+S005,North coast,13,318.6
+S006,North coast,22.1,374.5
+S007,North coast,12.7,326.9
+S008,North coast,12.9,345.2
+S009,North coast,19.1,360.8
+S010,North coast,10.4,323.7
+S011,North coast,14.8,350.8
+S012,North coast,8.7,335.8
+S013,North coast,22.6,358.7
+S014,North coast,13.6,361.5
+S015,North coast,12.7,363.4
+S016,North coast,9.7,313.9
+S017,North coast,15,326.5
+S018,North coast,11.3,341.9
+S019,North coast,12.4,316.5
+S020,North coast,23.5,356.8
+S021,North coast,14.1,355.5
+S022,North coast,10.3,317.4
+S023,North coast,15.9,306
+S024,North coast,13.2,350.2
+S025,North coast,18.4,319.5
+S026,North coast,24.8,342.3
+S027,North coast,10.6,269.3
+S028,North coast,17.6,365.9
+S029,North coast,15.5,348.4
+S030,North coast,20.5,366.6
+S031,North coast,13.8,355.5
+S032,North coast,20.1,355.4
+S033,North coast,8.1,300.6
+S034,North coast,27.1,387.2
+S035,North coast,20.3,382.9
+S036,North coast,14.2,309.8
+S037,North coast,9,313.1
+S038,North coast,18.8,346.8
+S039,North coast,17.8,324
+S040,North coast,15,355.9
+S001,North coast,15.8,332.3
+S002,North coast,12.2,359.3
+S003,North coast,17.1,349
+S004,North coast,16.6,361
+S005,North coast,13.6,369.3
+S006,North coast,9.4,331.6
+S007,North coast,19.2,375.3
+S008,North coast,18.2,355.2
+S009,North coast,11.2,301.1
+S010,North coast,8.6,324.5
+S011,North coast,16.1,359.4
+S012,North coast,13.3,347
+S013,North coast,16.4,342.4
+S014,North coast,9.5,302.2
+S015,North coast,10.7,342.9
+S016,North coast,21.9,343
+S017,North coast,17.3,323.4
+S018,North coast,18.4,363.4
+S019,North coast,28.3,354.6
+S020,North coast,15.7,348.8
+S021,North coast,7.4,320.8
+S022,North coast,16.9,320.8
+S023,North coast,22.6,386.9
+S024,North coast,30.8,374.4
+S025,North coast,9.3,350
+S026,North coast,10,318.5
+S027,North coast,11.7,321.3
+S028,North coast,10.4,328.5
+S029,North coast,12,326.4
+S030,North coast,14.1,332.3
+S031,North coast,9.9,310.2
+S032,North coast,30.6,361.4
+S033,North coast,15.6,355.9
+S034,North coast,14.6,324.8
+S035,North coast,17.8,322.3
+S036,North coast,15.2,332.4
+S037,North coast,14.3,324
+S038,North coast,25.2,326.7
+S039,North coast,13.9,333.1
+S040,North coast,9.6,330.2
+S001,South coast,17.2,344.1
+S002,South coast,13.3,335.1
+S003,South coast,12.5,305
+S004,South coast,10.3,312.3
+S005,South coast,17.4,318.6
+S006,South coast,14.1,316.8
+S007,South coast,18,316.2
+S008,South coast,13.8,306.3
+S009,South coast,11.9,335.9
+S010,South coast,23.2,349.5
+S011,South coast,13.6,322.9
+S012,South coast,20.9,383.1
+S013,South coast,9.9,316.6
+S014,South coast,12.7,314.8
+S015,South coast,13.7,343.3
+S016,South coast,13.1,316.9
+S017,South coast,24,384.7
+S018,South coast,14.9,324.2
+S019,South coast,16.3,323.3
+S020,South coast,10.8,296.9
+S021,South coast,11.6,329.1
+S022,South coast,21.3,379
+S023,South coast,23.3,348.1
+S024,South coast,23.2,360.2
+S025,South coast,9.3,322.7
+S026,South coast,30.7,404.4
+S027,South coast,21.4,363.2
+S028,South coast,14.9,310.2
+S029,South coast,19.2,329.8
+S030,South coast,10.7,305
+S031,South coast,10.2,321.4
+S032,South coast,15.3,332.8
+S033,South coast,9.9,325.1
+S034,South coast,16,321.7
+S035,South coast,23.6,348.6
+S036,South coast,10.4,333.9
+S037,South coast,11.6,320.5
+S038,South coast,15.2,319.5
+S039,South coast,10.5,338.8
+S040,South coast,13.1,326.9
+S001,South coast,20.4,328.8
+S002,South coast,21.1,383.3
+S003,South coast,17.2,314.8
+S004,South coast,7.8,276.2
+S005,South coast,14.7,286.1
+S006,South coast,21.8,364.1
+S007,South coast,19.9,335.1
+S008,South coast,14,323.7
+S009,South coast,5.8,312
+S010,South coast,15.3,323.5
+S011,South coast,18.3,309.1
+S012,South coast,15.2,293.6
+S013,South coast,15.8,327.4
+S014,South coast,17.4,342.2
+S015,South coast,13.1,281.1
+S016,South coast,23.7,362.2
+S017,South coast,17.7,348
+S018,South coast,9.7,343.1
+S019,South coast,24.3,361.3
+S020,South coast,22.9,358.2
+S021,South coast,20,358.1
+S022,South coast,8.4,313.1
+S023,South coast,12.3,322.8
+S024,South coast,18.7,344.7
+S025,South coast,15.2,347.4
+S026,South coast,16.9,328.7
+S027,South coast,35.5,379.4
+S028,South coast,11.3,304.3
+S029,South coast,7.2,291
+S030,South coast,16.5,342.7
+S031,South coast,11.8,354
+S032,South coast,17.5,319.6
+S033,South coast,11.3,317.9
+S034,South coast,32.5,360.4
+S035,South coast,14.4,348.5
+S036,South coast,12.7,319.2
+S037,South coast,14.2,333.3
+S038,South coast,20.3,353.8
+S039,South coast,15.5,312.3
+S040,South coast,8.5,311.7
+S001,South coast,15,327.4
+S002,South coast,19.6,358.4
+S003,South coast,15.2,307.9
+S004,South coast,19.4,320.3
+S005,South coast,14.3,345.4
+S006,South coast,14.7,319.4
+S007,South coast,17.8,326.6
+S008,South coast,21.2,351.6
+S009,South coast,9.7,310.8
+S010,South coast,14.8,368.8
+S011,South coast,14.6,336.1
+S012,South coast,11.5,325.4
+S013,South coast,10.4,337.7
+S014,South coast,12,322.4
+S015,South coast,18.4,342.5
+S016,South coast,13,304.9
+S017,South coast,11.4,276.1
+S018,South coast,15.9,310.4
+S019,South coast,9.7,319.4
+S020,South coast,21.6,329.8
+S021,South coast,12.7,339.3
+S022,South coast,16,349.3
+S023,South coast,15.3,337.2
+S024,South coast,15,328
+S025,South coast,28.3,341.9
+S026,South coast,11.2,315.2
+S027,South coast,22.4,343.7
+S028,South coast,15.2,345.8
+S029,South coast,11.2,347.5
+S030,South coast,14.6,340.9
+S031,South coast,19.5,322
+S032,South coast,12.9,359.5
+S033,South coast,11.4,342.1
+S034,South coast,15.8,338.7
+S035,South coast,21.2,305.2
+S036,South coast,14.6,311.8
+S037,South coast,9.2,314.4
+S038,South coast,9.5,331.8
+S039,South coast,11.5,298.6
+S040,South coast,12.5,389.2
+S001,Sydney,14.9,330.6
+S002,Sydney,19,388.5
+S003,Sydney,12.9,370.9
+S004,Sydney,10.2,355.3
+S005,Sydney,18.6,385.7
+S006,Sydney,16.5,401
+S007,Sydney,22.5,385.5
+S008,Sydney,8.3,321.6
+S009,Sydney,15.5,385.3
+S010,Sydney,24.1,407.4
+S011,Sydney,19.3,393.8
+S012,Sydney,11.2,384.7
+S013,Sydney,19.4,394.1
+S014,Sydney,11.1,386.6
+S015,Sydney,12.8,335.6
+S016,Sydney,22.7,381
+S017,Sydney,13.6,385.1
+S018,Sydney,20,388.9
+S019,Sydney,13.5,396.7
+S020,Sydney,8.6,344
+S021,Sydney,11.1,385.6
+S022,Sydney,10.2,355.2
+S023,Sydney,12.7,353.3
+S024,Sydney,13.3,370.4
+S025,Sydney,14.2,380.8
+S026,Sydney,13.8,354.1
+S027,Sydney,29.1,406.2
+S028,Sydney,9.2,340.8
+S029,Sydney,13,396.7
+S030,Sydney,16.9,401.8
+S031,Sydney,26.5,393.5
+S032,Sydney,15.5,394.5
+S033,Sydney,23.1,399.6
+S034,Sydney,8.4,341.3
+S035,Sydney,24.9,418.1
+S036,Sydney,11.8,366.6
+S037,Sydney,13.6,395.7
+S038,Sydney,10.2,364.7
+S039,Sydney,15.7,407.7
+S040,Sydney,28,408.2
+S001,Sydney,35,442.4
+S002,Sydney,10.3,376.2
+S003,Sydney,17.8,395.4
+S004,Sydney,24.4,412.4
+S005,Sydney,14,378.9
+S006,Sydney,13.9,377.1
+S007,Sydney,13.5,405.1
+S008,Sydney,18.5,410
+S009,Sydney,24.5,396.4
+S010,Sydney,19.1,421.4
+S011,Sydney,16.8,389.9
+S012,Sydney,13.5,365
+S013,Sydney,17.9,393.5
+S014,Sydney,12.4,371.6
+S015,Sydney,13.6,380.1
+S016,Sydney,22,382.1
+S017,Sydney,17.5,372.6
+S018,Sydney,16.3,412.9
+S019,Sydney,13.7,397.6
+S020,Sydney,20.8,380.6
+S021,Sydney,23.9,388.9
+S022,Sydney,11.1,405.5
+S023,Sydney,15.3,421
+S024,Sydney,15.3,367.3
+S025,Sydney,12.3,348.4
+S026,Sydney,10.6,422.1
+S027,Sydney,15,386.6
+S028,Sydney,18.9,396.7
+S029,Sydney,25.2,412.1
+S030,Sydney,7.7,389.7
+S031,Sydney,11.7,368.9
+S032,Sydney,13.5,407
+S033,Sydney,8.4,359.1
+S034,Sydney,11.5,382.3
+S035,Sydney,11.4,351.3
+S036,Sydney,11.6,375.9
+S037,Sydney,7,383.6
+S038,Sydney,16.2,382.1
+S039,Sydney,12,399.2
+S040,Sydney,25.5,465.9
+S001,Sydney,19.8,414.3
+S002,Sydney,9,360.2
+S003,Sydney,15.5,385.3
+S004,Sydney,12.2,365.5
+S005,Sydney,20.5,441
+S006,Sydney,15.3,323.7
+S007,Sydney,12.3,376.1
+S008,Sydney,17.5,391.2
+S009,Sydney,15.8,388.5
+S010,Sydney,14.2,348.6
+S011,Sydney,30.4,429.4
+S012,Sydney,12.5,378.8
+S013,Sydney,12.7,400.7
+S014,Sydney,8.7,374.8
+S015,Sydney,14.8,403.7
+S016,Sydney,20.5,378.2
+S017,Sydney,7.3,358
+S018,Sydney,13.7,382.2
+S019,Sydney,9.9,373.2
+S020,Sydney,24.8,395.6
+S021,Sydney,24.1,437.1
+S022,Sydney,16.9,375.1
+S023,Sydney,24.7,376.9
+S024,Sydney,11.1,379.1
+S025,Sydney,20.9,411.8
+S026,Sydney,12.2,393
+S027,Sydney,16.8,368.1
+S028,Sydney,13.5,372.8
+S029,Sydney,13.6,351.5
+S030,Sydney,18.2,407.9
+S031,Sydney,9.5,373.6
+S032,Sydney,13.7,396.6
+S033,Sydney,15.9,396.7
+S034,Sydney,13,364.2
+S035,Sydney,15.6,387.3
+S036,Sydney,13.4,339.4
+S037,Sydney,26.4,424
+S038,Sydney,19.3,413.4
+S039,Sydney,42.4,441.2
+S040,Sydney,11.4,329.2
+S001,Central coast,19.9,305.3
+S002,Central coast,31.3,345.4
+S003,Central coast,16.7,351.6
+S004,Central coast,10.3,308.9
+S005,Central coast,10.5,284.6
+S006,Central coast,14.8,332.6
+S007,Central coast,23.7,302.7
+S008,Central coast,19.5,329.7
+S009,Central coast,7.1,322.1
+S010,Central coast,11.7,305.9
+S011,Central coast,15,348.1
+S012,Central coast,9,341.1
+S013,Central coast,19.1,310.1
+S014,Central coast,6.3,274.6
+S015,Central coast,15.8,306
+S016,Central coast,13.1,327.3
+S017,Central coast,12.6,332
+S018,Central coast,13.6,342.3
+S019,Central coast,16.7,352.7
+S020,Central coast,17.2,349.7
+S021,Central coast,13.9,337.7
+S022,Central coast,7.6,304.5
+S023,Central coast,9.1,287.7
+S024,Central coast,9,290.7
+S025,Central coast,19.6,343
+S026,Central coast,13.8,352.3
+S027,Central coast,16.5,360.3
+S028,Central coast,8.7,265.8
+S029,Central coast,12.4,298
+S030,Central coast,18.3,359.6
+S031,Central coast,14.1,298.2
+S032,Central coast,14.4,288
+S033,Central coast,14.6,332.9
+S034,Central coast,22.9,378.8
+S035,Central coast,12.1,352.6
+S036,Central coast,19,343.9
+S037,Central coast,20.5,351.8
+S038,Central coast,9.9,318.9
+S039,Central coast,15.7,323.6
+S040,Central coast,14.9,254.3
+S001,Central coast,21.5,355.4
+S002,Central coast,20.7,330.1
+S003,Central coast,15,342.2
+S004,Central coast,15.7,311.4
+S005,Central coast,11.7,280.1
+S006,Central coast,14,344.1
+S007,Central coast,10.5,313
+S008,Central coast,10.7,379.9
+S009,Central coast,9.8,325.8
+S010,Central coast,20.1,357.3
+S011,Central coast,22.2,357.4
+S012,Central coast,13,304.3
+S013,Central coast,10.1,300.9
+S014,Central coast,14.5,341.8
+S015,Central coast,32.9,393.2
+S016,Central coast,30.6,377.3
+S017,Central coast,8.2,283.2
+S018,Central coast,13.2,350.7
+S019,Central coast,25.7,324.6
+S020,Central coast,14.8,312.8
+S021,Central coast,26.2,399.9
+S022,Central coast,13.3,327.7
+S023,Central coast,18.5,351.2
+S024,Central coast,16.2,332.9
+S025,Central coast,46.4,390
+S026,Central coast,20.7,326
+S027,Central coast,9.8,310.7
+S028,Central coast,12.1,255.3
+S029,Central coast,17.1,310.9
+S030,Central coast,7.7,317.5
+S031,Central coast,8,296.4
+S032,Central coast,10.1,302.6
+S033,Central coast,13.3,334.6
+S034,Central coast,23.1,333.8
+S035,Central coast,13.6,330.7
+S036,Central coast,15.9,296.1
+S037,Central coast,14.7,296.6
+S038,Central coast,11.7,279.3
+S039,Central coast,24.2,349.4
+S040,Central coast,10.2,304.4
+S001,Central coast,13.8,347.5
+S002,Central coast,13.3,316.4
+S003,Central coast,18.1,357.8
+S004,Central coast,26.3,392.5
+S005,Central coast,18,320.6
+S006,Central coast,24.3,355.8
+S007,Central coast,19.6,318
+S008,Central coast,12.1,328.6
+S009,Central coast,15.4,301.5
+S010,Central coast,24.3,327.5
+S011,Central coast,8.7,310.1
+S012,Central coast,16.8,328.9
+S013,Central coast,14.2,325
+S014,Central coast,20.4,338.5
+S015,Central coast,19.5,324
+S016,Central coast,16.7,324.2
+S017,Central coast,25.3,383.2
+S018,Central coast,8.8,304.3
+S019,Central coast,20.6,311.3
+S020,Central coast,8.6,287.2
+S021,Central coast,18.4,309.5
+S022,Central coast,15.5,305.4
+S023,Central coast,21,313.6
+S024,Central coast,15.4,270.6
+S025,Central coast,8.7,317.7
+S026,Central coast,7.4,313.9
+S027,Central coast,18.1,325.7
+S028,Central coast,14.6,306.4
+S029,Central coast,12.3,298.2
+S030,Central coast,13.5,325.8
+S031,Central coast,11.9,317.9
+S032,Central coast,14.2,328.2
+S033,Central coast,10.8,310.3
+S034,Central coast,7.5,313.4
+S035,Central coast,13.9,327.5
+S036,Central coast,21.6,351.6
+S037,Central coast,28.9,370.8
+S038,Central coast,15,355.2
+S039,Central coast,14.6,299.8
+S040,Central coast,21,369
