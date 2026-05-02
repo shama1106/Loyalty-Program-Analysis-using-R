@@ -78,6 +78,7 @@ The analysis compares:
 ## 🤖 Copilot Integration (IMPORTANT)
 
 ### ✔ Prompt Used
+<img width="940" height="207" alt="image" src="https://github.com/user-attachments/assets/530c1c78-3223-43cf-830b-73d78a8a9438" />
 
 
 ---
